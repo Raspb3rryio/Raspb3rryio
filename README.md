@@ -2,7 +2,7 @@
   
 >I’m interested in Frontend dev.  
 > I’m currently learning everything.  
-> I’m working on [?](raspb3rry.io).  
+> I’m working on [?](http://raspb3rry.io).  
 > How to reach me [Discord comming soon!](#)
   
 `This Page Is Under Construction!`
