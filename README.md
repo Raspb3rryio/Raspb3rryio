@@ -1,4 +1,4 @@
-# Hello, I’m [Raspb3rryio](@Raspb3rryio)
+# Hello, I’m [Raspb3rryio](https://github.com/Raspb3rryio/Raspb3rryio)
   
 >I’m interested in Frontend dev.  
 > I’m currently learning everything.  
